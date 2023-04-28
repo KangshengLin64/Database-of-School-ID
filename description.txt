@@ -1,0 +1,10 @@
+School ID Card
+
+This project connects the student ID Card with database, the ID card can store and manage student personal information, course information, history record from the library, also student could use ID card as debit card to save and withdraw money to spend in school area such as grocery, school dining hall etc.
+For each table, 
+Student would store basic personal information,
+Library would store books information and when student borrow it and return it, if it is on time or over time,
+Course would store basic information of a course like course id, course name etc.
+Course student would show the specific student who took the class.
+Debit would show the access from student and state would shows how they operated
+For example, user can use this project to check how many students in this school, or which book is most popular in the library in this year or monthly. Also, parents can check how does student spend their money in the school, or how many students borrow the book and didn’t return it on time etc.
